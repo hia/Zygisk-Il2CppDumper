@@ -1,0 +1,3 @@
+# Il2CppDumper 目标游戏包名
+# 修改下面这行为你要 dump 的游戏包名，然后重启手机或重新注入即可，无需重新打包模块
+com.nebula.mahjongtile
